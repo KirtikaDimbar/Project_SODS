@@ -10,6 +10,13 @@ The enclosed data set is the complete, cleaned results of the 2022 Stack Overflo
 
 The survey was fielded from May 11, 2022 to June 1, 2022. The median time spent on the survey for qualified responses was 15.08 minutes.
 
+You can find the official published results here:
+
+https://survey.stackoverflow.co/2022/
+
+Find previous survey results here:
+
+https://insights.stackoverflow.com/survey
 Respondents were recruited primarily through channels owned by Stack Overflow. The top 5 sources of respondents were onsite messaging, blog posts, email lists, Meta posts, banner ads, and social media posts. Since respondents were recruited in this way, highly engaged users on Stack Overflow were more likely to notice the links for the survey and click to begin it.
 
 As an incentive, respondents who finished the survey could opt into a "Census" badge if they completed the survey.
