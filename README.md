@@ -1,23 +1,32 @@
-The Public 2022 Stack Overflow Developer Survey Results
+OBJECTIVE: 
+	To perform exploratory data analysis(EDA) on the StackOverflow developer survey dataset. The dataset contains responses to an annual survey conducted by StackOverflow for the year 2022.
+	The main objective of EDA is to develop and understanding of data, by uncovering trends, relationships and patterns.
 
-Description:
 
-The enclosed data set is the complete, cleaned results of the 2022 Stack Overflow Developer Survey. Free response submissions and personally-identifying information have been removed from the results to protect the privacy of respondents. There are three files besides this README:
+TOOLS USED:
+	Python3
+	NumPy 
+	pandas 
+	matplotlib
+ 
 
-1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
-2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
-3. so_survey_2022.pdf - PDF file of the survey instrument
+INFERENCES and CONCLUSION:
 
-The survey was fielded from May 11, 2022 to June 1, 2022. The median time spent on the survey for qualified responses was 15.08 minutes.
+	1. Based on the survey respondents' demographics, we can infer that the survey is somewhat representative of the overall programming community. However, it has fewer responses from programmers in non-English-speaking countries and women & non-binary genders.
 
-Respondents were recruited primarily through channels owned by Stack Overflow. The top 5 sources of respondents were onsite messaging, blog posts, email lists, Meta posts, banner ads, and social media posts. Since respondents were recruited in this way, highly engaged users on Stack Overflow were more likely to notice the links for the survey and click to begin it.
+	2. The programming community is not as diverse as it can be. Although things are improving, we should make more efforts to support & encourage underrepresented communities, whether in terms of age, country, race, gender, or otherwise.
 
-As an incentive, respondents who finished the survey could opt into a "Census" badge if they completed the survey.
+	3. Although most programmers hold a college degree, a reasonably large percentage did not have computer science as their college major. Hence, a computer science degree isn't compulsory for learning to code or building a career in programming.
 
-You can find the official published results here:
+	4. A significant percentage of programmers either work part-time or as freelancers, which can be a great way to break into the field, especially when you're just getting started.
 
-https://survey.stackoverflow.co/2022/
+	5. Javascript & HTML/CSS are the most used programming languages in 2020, closely followed by SQL & Python.
 
-Find previous survey results here:
+	6. Python is the language most people are interested in learning - since it is an easy-to-learn general-purpose programming language well suited for various domains.
 
-https://insights.stackoverflow.com/survey
+	7. Rust and TypeScript are the most "loved" languages in 2020, both of which have small but fast-growing communities. Python is a close third, despite already being a widely used language.
+
+	8. Programmers worldwide seem to be working for around 40 hours a week on average, with slight variations by country.
+
+	9. You can learn and start programming professionally at any age. You're likely to have a long and fulfilling career if you also enjoy programming as a hobby.
+ 
